@@ -1,4 +1,4 @@
-# Home Insulation CLI Rating App
+# Home Insulation Rating App
 
 ## Description
 
